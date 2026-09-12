@@ -1,5 +1,5 @@
-# Hi there, I'm Sneha Chaki 👋
----
+<img width="1672" height="940" alt="file_00000000f944820b9d8b1d34a3968a39" src="https://github.com/user-attachments/assets/e604e4c4-0dfb-475f-8bb5-469c64506a74" />
+
 <div align="center">
   
 ### 🎓 Education
