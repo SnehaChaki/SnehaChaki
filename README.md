@@ -1,5 +1,7 @@
 # Hi there, I'm Sneha Chaki 👋
 ---
+<div align="center">
+  
 ### 🎓 Education
 
 ![MCA Student](https://img.shields.io/badge/%F0%9F%9A%80%20Master%20of%20Computer%20Applications%20%28MCA%29%20%7C%20Adamas%20University%20%28Currently%20Pursuing%29-212121?style=for-the-badge)
@@ -18,8 +20,6 @@
 <br />
 ![Open to Collaborate](https://img.shields.io/badge/Open%20to%20Collaborate-212121?style=for-the-badge) ![Open Source Projects](https://img.shields.io/badge/Open--Source%20Projects-212121?style=for-the-badge&logo=github&logoColor=white) ![Innovative Builds](https://img.shields.io/badge/Innovative%20Software%20Builds-212121?style=for-the-badge)
 --- 
-
-<div align="center">
 
 ### 🛠️ Tech Stack & Tools 
 
