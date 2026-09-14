@@ -12,13 +12,12 @@
 
 ![Core Skills](https://img.shields.io/badge/%F0%9F%92%BB%20Core%20Skills-212121?style=for-the-badge) ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-212121?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-212121?style=for-the-badge&logo=python&logoColor=white) ![DBMS](https://img.shields.io/badge/DBMS-212121?style=for-the-badge&logo=mysql&logoColor=white) ![AI / ML](https://img.shields.io/badge/AI%2FML-212121?style=for-the-badge)
 <br />
+<br />
 ![Focus Areas](https://img.shields.io/badge/%F0%9F%8D%B1%20Focus%20Areas-212121?style=for-the-badge) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning%20Applications-212121?style=for-the-badge) ![Backend Dev](https://img.shields.io/badge/Backend%20Software%20Development-212121?style=for-the-badge)
 <br />
 ![Open to Collaborate](https://img.shields.io/badge/%F0%9F%91%AF%20Open%20to%20Collaborate-212121?style=for-the-badge) ![Open Source](https://img.shields.io/badge/Open--Source%20Projects-212121?style=for-the-badge&logo=github&logoColor=white) ![Innovative Builds](https://img.shields.io/badge/Innovative%20Software%20Builds-212121?style=for-the-badge)
 <br />
-![Focus Areas](https://img.shields.io/badge/Focus%20Areas-212121?style=for-the-badge) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning%20Applications-212121?style=for-the-badge) ![Backend Software Development](https://img.shields.io/badge/Backend%20Software%20Development-212121?style=for-the-badge)
-<br />
-![Open to Collaborate](https://img.shields.io/badge/Open%20to%20Collaborate-212121?style=for-the-badge) ![Open Source Projects](https://img.shields.io/badge/Open--Source%20Projects-212121?style=for-the-badge&logo=github&logoColor=white) ![Innovative Builds](https://img.shields.io/badge/Innovative%20Software%20Builds-212121?style=for-the-badge)
+
 --- 
 
 ### 🛠️ Tech Stack & Tools 
